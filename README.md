@@ -25,7 +25,7 @@ This is a **Simple Calculator Application** built using the **Kivy framework** i
   pip install kivy
   ```
 
-##Steps to Run
+## Steps to Run
 
 1. Clone this repository to your local machine:
 ```
@@ -45,7 +45,7 @@ python calculator.py
 
 ---
 
-##Code Explanation
+## Code Explanation
 
 The main components of the app include:
 
@@ -79,23 +79,23 @@ The label font size adjusts dynamically with its height.
 
 ---
 
-##File Structure
-
+## File Structure
+```
 .
 ├── calculator.py       # Main Python script for the calculator
 └── README.md           # Documentation file
 
-
+```
 ---
 
-##Example Screenshot
+## Example Screenshot
 
 Once you run the app, the UI will resemble a typical calculator layout with a display label and buttons arranged in a grid format.
 
 
 ---
 
-##License
+## License
 
 This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it as per the license terms.
 
